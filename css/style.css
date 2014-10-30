@@ -1,0 +1,269 @@
+/* SECCION 1 */
+
+/* SECCION 2 */
+
+/* SECCION 3 - 4 - 5 */
+
+/* SECCION 6 */
+
+/* SECCION 7 */
+
+/* SECCION 8 */
+
+/* SECCION 9 */
+
+/* PLANTILLA TUTORIAL */
+.background_tuto{
+	background: #d3222a;
+}
+.background_tuto_logo{
+	background-color: white;
+	height: 56px;
+}
+.logo_tuto{
+	width: 165px;
+	padding: 9px;
+	margin-top: 4px;
+}
+.white_tuto{
+	color: white;
+	font-size: 5em;
+}
+.background_tuto_2{
+	background-color: #a91a20;
+}
+.border_left{
+	border-left:solid 15px #d3222a;
+}
+.logo_flecha{
+	margin-left: -20px;
+}
+.background_tuto_3{
+	background-image: url('../img/elemento_6.png');
+	background-repeat: repeat-x;
+}
+.bg_logo{
+	margin-left: 30px;
+}
+.bg_tuto{
+	background: white;
+	width: 650px;
+	height: 50px;
+	margin-top: 34px;
+	line-height: 50px;
+}
+.bg_centro{
+	background-color: #fdf7f7;
+}
+.nombre_tuto_a{
+	margin-left: 30px;
+	color: #FF0000;
+}
+.centro_margen{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.bold{
+	font-weight: bold;
+}
+.box_tuto_files{
+	border: solid 2px #B2B2B2;
+	padding: 0;
+	margin-left: 116px;
+}
+.box_files_text{
+	margin-left: -60px;
+	font-size: 10px;
+}
+.box_files_text{
+	margin-top: 10px;
+}
+.box_files_text li{
+	line-height: 5px;
+}
+.box_files_text li p{
+	font-size: 15px;
+}
+.box_files_text li ul{
+	margin-left: -10px;
+}
+.code_tuto{
+	color: white;
+	background-color: #272822;
+	height: auto;
+	padding: 50px 30px 20px 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.red_code{
+	color:red;
+}
+.yellow_code{
+	color: yellow;
+}
+.white_code{
+	color: white;
+}
+.green_code{
+	color: green;
+}
+.blue_code{
+	color: #52D2EA;
+}
+.mor_code{
+	color: #DD14FF;
+}
+.bg_footer{
+	background-image: url('../img/elemento_5.png');
+	background-repeat: repeat-x;
+}
+.bg_footer_logo{
+	background-image: url('../img/elemento_3.png');
+	background-repeat: no-repeat;
+	margin-left: 70px;
+	height: 300px;
+}
+.pts_tuto{
+	font-size: 6em;
+	color: white;
+	margin-left: 25px;
+	line-height: 225px;
+}
+.font_fd_tuto{
+	line-height: 300px;
+	font-size: 5em;
+	text-shadow:3px 2px 3px black;
+}
+.hack_tuto{
+	margin-right: -70px;
+}
+.img_difi{
+	margin-top: 150px;
+}
+.m_first_tuto{
+	margin-top: 110px;
+}
+.link_tuto{
+	margin-left: 30px;
+	border-left: solid 2px #810A10;
+	border-bottom: solid 2px #810A10;
+	height: 40px;
+	width: 280px;
+	padding-left: 20px;
+	padding-top: 10px;
+	text-decoration: none;
+}
+.link_tuto a{
+	color: white;
+	font-size: 1.3em;
+}
+.m_last_tuto{
+	margin-bottom: 10px;
+	border-bottom: none;
+}
+.border_footer_tuto{
+	margin-left: -50px;
+	border-left:solid 2px #810A10;
+	padding-left: 10px;
+	margin-top: 110px;
+}
+.img_difi{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.border_footer_blank{
+	color: white;
+	margin-left: -50px;
+	padding-top: 20px;
+	border-left:solid 2px #810A10;
+	padding-left: 20px;
+	padding-right: 80px;
+	height: 60px;
+}
+.text_footer{
+	margin-left: -50px;
+	padding-top: 20px;
+	border-left:solid 2px #810A10;
+	padding-left: 20px;
+	padding-right: 80px;
+	height: 108px;
+}
+.nombre_autor{
+	color: #73060B;
+	font-size: 1.3em;
+}
+.preview{
+	margin-left: -300px;
+	margin-bottom: 70px;
+}
+.preview_txt{
+	font-size: 1.7em;
+}
+/*XS*/
+.logo_xs{
+	width: 60px;
+}
+.titulo_xs{
+	background-color: white;
+}
+.centro_xs_margen{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.nombre_xs_tuto{
+	padding-top: 10px;
+	margin-left: 10px;
+	color: #FF0000;
+	height: 30px;
+}
+.box_tuto_files_xs{
+	border: solid 2px #B2B2B2;
+	padding: 0;
+	margin-left: 20px;
+}
+.box_files_text_xs{
+	margin-left: -10px;
+	font-size: 10px;
+}
+.box_files_text_xs{
+	margin-top: 10px;
+}
+.box_files_text_xs li{
+	line-height: 5px;
+}
+.box_files_text_xs li p{
+	font-size: 15px;
+}
+.box_files_text_xs li ul{
+	margin-left: -10px;
+}
+.code_tuto_xs{
+	color: white;
+	background-color: #272822;
+	height: auto;
+	padding-top: 9px;
+	padding-left: 1px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 10px;
+	text-align: left;
+}
+.bg_xs_f{
+	background-image: url('../img/elemento_3.png');
+	background-repeat: no-repeat;
+	height: 40px;
+}
+.bg_xs_f{
+	margin-left: 80px;
+	width: 160px;
+}
+.pts_tuto_xs{
+	font-size: 6em;
+	color: white;
+	margin-left: 100px;
+	line-height: -225px;
+}
+.difi_xs{
+	width: 100px;
+	margin-top: 30px;
+}
